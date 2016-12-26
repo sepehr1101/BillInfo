@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillInfoNew", "BillInfoNew\BillInfoNew.csproj", "{7005B1FF-055A-4033-942A-59253D406950}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillInfo", "BillInfoNew\BillInfo.csproj", "{7005B1FF-055A-4033-942A-59253D406950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillInfo.Test", "BillInfo.Test\BillInfo.Test.csproj", "{224E8C85-C064-46B8-B0B9-AC2E76B6ECE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7005B1FF-055A-4033-942A-59253D406950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7005B1FF-055A-4033-942A-59253D406950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7005B1FF-055A-4033-942A-59253D406950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224E8C85-C064-46B8-B0B9-AC2E76B6ECE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224E8C85-C064-46B8-B0B9-AC2E76B6ECE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224E8C85-C064-46B8-B0B9-AC2E76B6ECE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224E8C85-C064-46B8-B0B9-AC2E76B6ECE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
